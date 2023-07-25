@@ -1,4 +1,5 @@
 ### Hi I'm Gabriel Sandrin Pires - Software Developer👨‍💻🤖
+__________________________________________________________
 
 <!--
 **Sandrin87/Sandrin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
