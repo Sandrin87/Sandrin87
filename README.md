@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  - 🫶Love to try new technologies and 🧠learn new things
  - 📝How to reach me: gsandrin66@gmail.com ✉
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandrin87)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandrin87&show_icons=true&theme=transparent)
