@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Gabriel Sandrin Pires - Software Developer👨‍💻🤖
 
 <!--
 **Sandrin87/Sandrin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 📚 B.Sc. on Computer Sicence - Under graduation📝
+ - 🫶Love to try new technologies and 🧠learn new things
+ - 📝How to reach me: gsandrin66@gmail.com ✉
+
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandrin87)](https://github.com/anuraghazra/github-readme-stats)
